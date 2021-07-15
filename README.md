@@ -8,7 +8,8 @@ SELD2020을 활용한 졸업작품(시각화 프로그램)
  - DCASE2020 연구 자료를 활용
 
 ### 동작과정
-![image](https://user-images.githubusercontent.com/62464515/125753142-435dbaf1-8d24-4d43-aba6-753228a0af22.png)
+![image](https://user-images.githubusercontent.com/62464515/125753454-cbd6385e-6cc0-4558-a7c7-4579b29dd128.png)
+
 
 
 ### 결과 사진
