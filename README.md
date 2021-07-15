@@ -9,6 +9,7 @@ SELD2020을 활용한 졸업작품(시각화 프로그램)
 
 ### 동작과정
 ![image](https://user-images.githubusercontent.com/62464515/125753454-cbd6385e-6cc0-4558-a7c7-4579b29dd128.png)
+<img src="https://user-images.githubusercontent.com/62464515/125753454-cbd6385e-6cc0-4558-a7c7-4579b29dd128.png" width="300" height="300">
 
 
 
